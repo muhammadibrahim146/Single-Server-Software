@@ -43,5 +43,3 @@ dotnet run
 
 Windows is required because this is a WinForms application.
 
-## Important
-This project is for the UBL branch data. It follows the same single-server/M/M/1 methodology as a typical KFC queue project, but the data, entity, and results are based on UBL.
